@@ -7,8 +7,9 @@ class App extends Component{
         return(
 
             <div>
-                heyyhjuhuhuuuuuh
+                <h1> hello</h1>
                 </div>
         )
     }
 }
+export default App;
